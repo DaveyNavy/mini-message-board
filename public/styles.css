@@ -1,0 +1,14 @@
+form {
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+    max-width: 500px;
+}
+
+input {
+    width: 100%;
+}
+
+button {
+    width: 5rem;
+}
